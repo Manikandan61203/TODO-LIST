@@ -1,0 +1,40 @@
+body{
+    background-image: url(/list-icon-notebook-with-completed-todo-list-3d-render_471402-428.avif);
+    background-repeat: no-repeat;
+    background-size: 1360px 800px;
+    background-attachment: fixed;
+}
+#boi
+{
+    width: 500px;
+    height: 500px;
+    margin: 10% 20% 0% 10%;
+}
+ul
+{
+    list-style: none;
+}
+.playwrite-cu-uniquifier {
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-top: 30px;
+    text-align: center;
+  }
+  li{
+    display:inline-block;
+  }
+#op
+{
+    margin-left: 300px;
+    display:inline-block;
+}
+#ap
+{
+    margin-left: 35px;
+}
+.font 
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
